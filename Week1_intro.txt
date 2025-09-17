@@ -1,0 +1,11 @@
+It’s a way of working where development (Dev) and operations (Ops) teams come together to build, test, and run software faster and more reliably.
+
+Instead of working separately, they:
+
+Automate tasks (like code testing, deployments, and server setup).
+
+Use tools to continuously integrate and deliver code (CI/CD).
+
+Monitor applications in real-time for performance and security.
+
+The main goal: deliver software quickly, with fewer errors, and keep it running smoothly.
