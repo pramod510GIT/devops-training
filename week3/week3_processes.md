@@ -1,4 +1,4 @@
-sudo spt install -y nginx
+sudo apt install -y nginx
 sudo apt update
 ps -ef 
 ps -ef | grep nginx
