@@ -1,0 +1,11 @@
+week 6 - Git Basics
+
+Commit: Saves changes to your local Git repository with a descriptive message.
+Branch: Creates an independent line of development for new features or fixes.
+Merge: Combines changes from one branch into another, usually into the main branch.
+Clone: Makes a local copy of a remote Git repository.
+Push: Uploads your local commits to the remote repository on GitHub.
+Pull: Fetches and integrates updates from the remote repository into your local branch.
+Status: Shows the current state of your working directory and staged changes.
+Log: Displays the history of commits in the repository.
+
